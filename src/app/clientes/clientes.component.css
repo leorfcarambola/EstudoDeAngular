@@ -1,0 +1,14 @@
+p{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+li{
+    color: blueviolet;
+    background-color: black;
+}
+button{
+    color: red;
+    background-color: black;
+    border-color: aquamarine;
+}
